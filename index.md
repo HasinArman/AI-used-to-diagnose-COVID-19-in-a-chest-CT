@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # AI used to diagnose COVID-19 in a chest CT.
 
 ## Introduction
@@ -53,6 +57,3 @@ AI has the potential to play a crucial role in the detection of COVID-19 pneumon
 * Harmon, Stephanie A., et al. “Artificial Intelligence for the Detection of COVID-19 Pneumonia on Chest CT Using Multinational Datasets.” Nature Communications, vol. 11, no. 1, 14 Aug. 2020, p. 4080, https://www.nature.com/articles/s41467-020-17971-2
 * Harmon, S. A., Sanford, T. H., Xu, S., Turkbey, E. B., Roth, H., Xu, Z., Yang, D., Myronenko, A., Anderson, V., Amalou, A., Blain, M., Kassin, M., Long, D., Varble, N., Walker, S. M., Bagci, U., Ierardi, A. M., Stellato, E., Plensich, G. G., & Franceschelli, G. (2020). Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets. Nature Communications, 11(1), 4080. https://doi.org/10.1038/s41467-020-17971-2
 * “Artificial Intelligence for the Detection of COVID-19 Pneumonia on Chest CT Using Multinational Datasets.” Nature Communications, vol. 11, no. 1, 14 Aug. 2020, p. 4080, www.nature.com/articles/s41467-020-17971-2
-
-
-
