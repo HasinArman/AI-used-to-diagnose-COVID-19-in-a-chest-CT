@@ -13,7 +13,7 @@ One of the major advantages of using AI for the finding of COVID-19 pneumonia is
 
 Another advantage of using AI for the recognition of COVID-19 pneumonia is the ability to use multinational datasets. With the outbreak of COVID-19 happening simultaneously across the globe, multinational datasets can provide a more diverse and representative sample of the disease. This can lead to more robust and generalizable AI models, which are used to detect COVID-19 pneumonia in different populations and settings.
 
-[!Branching](./Assets/Picture4.png) 
+![Branching](./Assets/Picture4.png) 
 (Bai, et al, 2020)
 
 Several AI algorithms have been developed for the finding of ‘COVID-19 pneumonia on chest CT scans. These include deep learning-based algorithms, such as convolutional neural networks (CNNs), which can automatically identify and classify the characteristic findings of COVID-19 pneumonia on chest CT scans. Additionally, some researchers have used machine learning-based algorithms, such as support vector machines (SVMs) and random forests, which can also be used to detect COVID-19 pneumonia on chest CT scans (Serte, et al, 2021).
@@ -27,7 +27,7 @@ An extensive study was conducted, delving into the medical records of 700 patien
 The COVNet model was able to identify these characteristic findings with high accuracy, making it a valuable tool for the early detection of COVID-19. Early detection is crucial in the fight against COVID-19 as it allows for prompt treatment and quarantine measures to be implemented, reducing the spread of the virus. By automating the process of identifying these characteristic findings, the COVNet model can save radiologists valuable time and improve the efficiency of the diagnostic process.
 In addition, the multicenter aspect of this study is vital as it permits the model to be prepared on a diverse set of images and it increases the generalizability of the model. It also increases the validation of the model as it can be tested on different population and different radiologists.
 
-[!Branching](./Assets/Picture5.png)  
+![Branching](./Assets/Picture5.png)  
 (Harmon et al.)
 
 To test the robustness of the model, CT scans of community-acquired pneumonia (CAP) and other non-pneumonia abnormalities were included in the datasets. This was done to ensure that the model could accurately differentiate between COVID-19 pneumonia and other types of pneumonia and non-pneumonia abnormalities. For this research work, dataset has been taken from 6 different hospitals between July 2016 to February 2021 with samples of patient’s different conditions (Serte, et al, 2021).
@@ -39,7 +39,7 @@ The performance of the model for the detection of COVID-19 pneumonia on chest CT
 
 It should be noted that the model's performance was evaluated on a limited dataset and further studies with larger, more diverse datasets are needed to confirm its generalizability. Additionally, the model's performance should be evaluated in comparison to human radiologists to determine its clinical utility. Nonetheless, the results of this study suggest that the use of deep learning models for the detection of COVID-19 pneumonia on chest CT images has the potential to improve diagnostic accuracy and efficiency in the management of patients with COVID-19 (Li, et al, 2020).
 
-[!Branching](./Assets/Picture6.png) 
+![Branching](./Assets/Picture6.png) 
 (Harmon et al., “Artificial Intelligence for the Detection of COVID-19 Pneumonia on Chest CT Using Multinational Datasets”)
 
 ## Conclusion
